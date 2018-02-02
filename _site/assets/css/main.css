@@ -1,0 +1,10 @@
+.copyright-year { 
+	display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: .88;
+}
+
+#year {
+	font-family: sans-serif;
+}
